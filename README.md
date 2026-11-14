@@ -31,6 +31,9 @@ Early December 2026 to Late January 2027
 ActionsDialStudio also supports the following Kieslect smartwatches:
 - KS2
 
+## Language
+C++, Qt 6
+
 ---
 
 ## License
