@@ -4,6 +4,9 @@
 ## Confirmed release date
 Early December 2026 to Late January 2027
 
+## Status
+Beta Stage; All functionality is being worked on.
+
 ## Screenshots
 ### Example Watch Face
 <img width="1330" height="832" alt="Screenshot 2026-11-14 150216" src="https://github.com/user-attachments/assets/b3af391e-2114-48d2-a32b-ee6fdc53b29f" />
