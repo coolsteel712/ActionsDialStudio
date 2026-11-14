@@ -1,5 +1,5 @@
 # ActionsDialStudio
-(Not available yet) Replacement of IDO's Watch Face Designer. - ActionsDialStudio is an open-source watch face editor for VeryFit smartwatches released 2022 and newer.
+(Not available yet) Replacement of IDO's Watch Face Designer. - ActionsDialStudio is an open-source watch face editor for VeryFit smartwatches released 2022 and newer (Not compatible with VeryFit smartwatches using SiFli MCUs).
 
 ## Confirmed release date
 Early December 2026 to Late January 2027
